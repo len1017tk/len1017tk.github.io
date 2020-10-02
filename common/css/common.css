@@ -1,0 +1,16 @@
+p.title_ber {
+	background-color:#516183;
+	color:#ffffff;
+	font-size : 13px;
+	font-weight:bold;
+	padding:3px;
+	width:400px;
+}
+p.title_ber span {
+	border-left: 5px ridge #d4f0ff ;
+	display:block;
+	height : 15px;
+	line-height: 1.0;
+	padding:4px 0px 0px 9px;
+	padding-left:5px;
+}
